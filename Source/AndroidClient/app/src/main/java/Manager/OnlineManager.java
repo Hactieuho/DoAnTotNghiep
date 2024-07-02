@@ -291,10 +291,10 @@ public class OnlineManager extends Application{
         String str;
         @Override
         protected void onPostExecute(Void result) {
-            // Sau khi download xong thi khoi tao websocket
-            // Convert sang json
-            JSONObject serverConfig = JsonManager.toJson(str);
             try {
+                // Sau khi download xong thi khoi tao websocket
+                // Convert sang json
+                JSONObject serverConfig = JsonManager.toJson(str);
                 // Lay ip va port
                 String ip = serverConfig.getString("IP");
                 String port = serverConfig.getString("PORT");
@@ -320,9 +320,7 @@ public class OnlineManager extends Application{
                 });
                 // Duy tri ket noi socket
                 connectSocket();
-            } catch (JSONException e) {
-                e.printStackTrace();
-            } catch (URISyntaxException e) {
+            } catch (Exception e) {
                 e.printStackTrace();
             }
             super.onPostExecute(result);
