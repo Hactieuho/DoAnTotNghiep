@@ -92,6 +92,8 @@ public class LoginActivity extends BaseActivity {
     @Override
     protected void onResume() {
         super.onResume();
+        // TODO: Test
+        progressOff();
         if (OnlineManager.getInstance().getmSocket() != null) {
             if (OnlineManager.getInstance().getmSocket().connected() == true) {
                 // Neu ket noi den server roi thi khong hien thi progress nua
@@ -224,7 +226,7 @@ public class LoginActivity extends BaseActivity {
                 ActivityManager.getInstance().makeLongToast(txt);
             }
         });
-        ActivityManager.getInstance().activityLoginBinding.tvTest.setText(txt);
+//        ActivityManager.getInstance().activityLoginBinding.tvTest.setText(txt);
     }
 
     // Websocket

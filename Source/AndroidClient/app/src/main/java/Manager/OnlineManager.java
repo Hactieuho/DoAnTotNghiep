@@ -72,7 +72,7 @@ public class OnlineManager extends Application{
     // Duy tri ket noi
     private Handler connectHandler = new Handler();
     // Duong dan file config
-    private String configUrl = "https://bkod.herokuapp.com/serverConfig";
+    private String configUrl = "https://raw.githubusercontent.com/Hactieuho/DoAnTotNghiep/main/Source/ServerConfig/BKOD-Config.js";
     // Constructor
     private OnlineManager() {
         // Load file config dia chi server neu co ket noi mang
