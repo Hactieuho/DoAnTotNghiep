@@ -1,0 +1,40 @@
+
+E
+java:S1604/"(Make this anonymous inner class a lambda(âà†Ş8«¸­‹‡2
+E
+java:S16047"(Make this anonymous inner class a lambda(âà†Ş8«¸­‹‡2
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰á¦•ıÿÿÿÿ
+v
+java:S1104"`Make activityLoginBinding a static final constant or non-public and provide accessors if needed.(ÿ¦ıù
+|
+java:S1104"aMake activitySignUpBinding a static final constant or non-public and provide accessors if needed.(Œ¨¢ôüÿÿÿÿ
+~
+java:S1104"cMake activityHomeTabsBinding a static final constant or non-public and provide accessors if needed.(Ñ¯âùúÿÿÿÿ
+~
+java:S1104"cMake activityTourTabsBinding a static final constant or non-public and provide accessors if needed.(’Ş‘‡úÿÿÿÿ
+ƒ
+java:S1104"hMake activityTimesheetInfoBinding a static final constant or non-public and provide accessors if needed.(‹…ø·úÿÿÿÿ
+}
+java:S1104"bMake activityMessageBinding a static final constant or non-public and provide accessors if needed.(²³ÃŒÿÿÿÿÿ
+´
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(åÅ˜İıÿÿÿÿ
+M
+java:S1135?"2Complete the task associated to this TODO comment.(×ò©Ìøÿÿÿÿ
+Y
+java:S6353A"CUse concise character class syntax '\\w' instead of '[a-zA-Z0-9_]'.(—ı¹î
+Y
+java:S6353A"CUse concise character class syntax '\\w' instead of '[a-zA-Z0-9_]'.(—ı¹î
+M
+java:S1135D"2Complete the task associated to this TODO comment.(Úİƒ£ÿÿÿÿÿ
+M
+java:S1135I"2Complete the task associated to this TODO comment.(•¼Šâùÿÿÿÿ
+^
+java:S6353K"CUse concise character class syntax '\\w' instead of '[a-zA-Z0-9_]'.(±úĞ”ùÿÿÿÿ
+H
+java:S1135N"2Complete the task associated to this TODO comment.(ÏÈ
+R
+java:S6353P"<Use concise character class syntax '\\d' instead of '[0-9]'.(¢‘¿…
+R
+java:S6353P"<Use concise character class syntax '\\d' instead of '[0-9]'.(¢‘¿…
+R
+java:S6353P"<Use concise character class syntax '\\d' instead of '[0-9]'.(¢‘¿…

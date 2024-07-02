@@ -1,0 +1,94 @@
+
+c
+java:S1604_"(Make this anonymous inner class a lambda(Ç¬dJ$8fe35044-8174-4203-9941-d65ec829739f
+d
+java:S1604u"(Make this anonymous inner class a lambda(ƒÇJ$13e1b811-43e1-462e-9e86-2cb53fd13deb
+e
+java:S1604Õ"(Make this anonymous inner class a lambda(åİÂ®J$a52b68b1-3a85-4a21-8db2-51dc07cedce4
+j
+java:S1604¶"(Make this anonymous inner class a lambda(Ê¯¹ışÿÿÿÿJ$0f488739-6d6d-4aee-92ea-42832074c85f
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰á¦•ıÿÿÿÿJ$40f9231e-a018-4964-8dae-48650218cb5d
+”
+java:S1104="SMake setting a static final constant or non-public and provide accessors if needed.(û˜›ËÿÿÿÿÿJ$7bbe7343-9791-44fe-a829-1ed932cef259
+•
+java:S1104?"TMake userInfo a static final constant or non-public and provide accessors if needed.(õ½ÎÇøÿÿÿÿJ$17d47258-71bf-411a-ba40-35086eca422b
+
+java:S1104A"UMake mNewsList a static final constant or non-public and provide accessors if needed.(éá 6J$663b3f71-9b3d-49c3-a3be-ec0daa0b3645
+
+java:S1104C"UMake mTourList a static final constant or non-public and provide accessors if needed.(¨­ß"J$9339283c-a8aa-4c19-b6c8-fb6e13655bd3
+™
+java:S1104E"]Make mConversationList a static final constant or non-public and provide accessors if needed.(í“¦ÑJ$81f0cbf6-668a-4e24-bdc8-55a188706759
+—
+java:S1104G"[Make mCounselorsList a static final constant or non-public and provide accessors if needed.(÷ŞŠ®J$a7e8c84e-4cd9-4b99-88eb-06c797ec40c4
+l
+java:S1066ş"/Merge this if statement with the enclosing one.(£É×©J$e60cec6f-513d-4081-b2a2-4f3e57d7a11f
+l
+java:S1066ÿ"/Merge this if statement with the enclosing one.(©‡Õ¨J$c9b3c586-1459-4b28-bfeb-ec9461dbda44
+¤
+java:S1319A"iThe type of "mNewsList" should be an interface such as "List" rather than the implementation "ArrayList".(éá 6J$56de1fd9-a2b6-4be3-b157-cd1c503ce9d6
+¤
+java:S1319C"iThe type of "mTourList" should be an interface such as "List" rather than the implementation "ArrayList".(¨­ß"J$d3174846-b7c1-4698-86f1-21462a0d9d7f
+­
+java:S1319E"qThe type of "mConversationList" should be an interface such as "List" rather than the implementation "ArrayList".(í“¦ÑJ$c5787952-7c00-4a06-ba9c-0d5dffc46dee
+«
+java:S1319G"oThe type of "mCounselorsList" should be an interface such as "List" rather than the implementation "ArrayList".(÷ŞŠ®J$7dd939d8-7c46-4dea-8461-f6da0465f295
+‚
+java:S2259˜"@A "NullPointerException" could be thrown; "md" is nullable here.(¸ØÓ üÿÿÿÿJ$cc5ff96f-a525-4561-9650-a3603c09a0dc
+Ú
+java:S6548,"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(„ÓĞùÿÿÿÿJ$87675f1b-7d78-47b6-a565-a39f5fb8d999
+¡
+java:S1149œ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿJ$b9c16ca0-258d-48ad-a39b-4b8a4b3ec81d
+p
+java:S1874I"/Remove this use of "Handler"; it is deprecated.(¹ÕàÙûÿÿÿÿJ$74be99b9-149c-4a90-b4b9-845f56d9e3ad
+h
+java:S1125S"'Remove the unnecessary boolean literal.(•ãéƒÿÿÿÿÿJ$cd50583e-a3d3-471c-908c-f7c57e37dd74
+p
+java:S1874U"/Remove this use of "execute"; it is deprecated.(­§êéüÿÿÿÿJ$7dcd5cd7-a606-4f90-9f89-ea31bde80e32
+p
+java:S1874]"/Remove this use of "Handler"; it is deprecated.(€´ÑÓüÿÿÿÿJ$06dd84da-5b0b-4ead-ac40-6192690aead8
+s
+java:S1135^"2Complete the task associated to this TODO comment.(æ©ûÉùÿÿÿÿJ$d56f3213-9927-47cb-9f0e-ea06b1d45f2c
+h
+java:S1125c"'Remove the unnecessary boolean literal.(•ãéƒÿÿÿÿÿJ$21f1666d-1cd0-4c74-a85a-7cc6f3acb4ef
+p
+java:S1874e"/Remove this use of "execute"; it is deprecated.(­§êéüÿÿÿÿJ$be6e299c-1f91-4fdc-998e-b0d902d1a554
+}
+java:S1874r"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(¿•àÄşÿÿÿÿJ$180353a8-1316-4a05-bc09-3dc75b37e1f1
+}
+java:S1874r"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(¿•àÄşÿÿÿÿJ$87411570-2a60-48c5-b2f0-cac45b669816
+t
+java:S1874r"3Remove this use of "isConnected"; it is deprecated.(¿•àÄşÿÿÿÿJ$c41826c4-3b47-4434-a73a-1d5b88c393a8
+m
+java:S1135t"2Complete the task associated to this TODO comment.(Ñ¥˜fJ$b61c481d-6d96-4224-be52-a485295a8d5a
+t
+java:S1135±"2Complete the task associated to this TODO comment.(êÚı¦ùÿÿÿÿJ$ebe1ab19-f905-45db-9efd-438e27612538
+d
+java:S1125´"'Remove the unnecessary boolean literal.(öØ÷¯J$91cc497d-c51d-4743-bfd7-b398c4075fa3
+q
+java:S1874Ó"/Remove this use of "Handler"; it is deprecated.(‘ä­•ıÿÿÿÿJ$1cead56a-bd22-4380-b366-177d9bb15986
+t
+java:S1135Ô"2Complete the task associated to this TODO comment.(éÏ„£ıÿÿÿÿJ$212af425-669f-4177-874a-33d5dad581e4
+d
+java:S1125Ú"'Remove the unnecessary boolean literal.(£É×©J$997d956c-50fe-401e-ac83-aebe584f7847
+t
+java:S1135å"2Complete the task associated to this TODO comment.(¨ïºÀıÿÿÿÿJ$ddb811ae-d27d-45ac-b746-a0b4d00e235d
+t
+java:S1135ê"2Complete the task associated to this TODO comment.(¨ïºÀıÿÿÿÿJ$6385e51e-89d3-4723-a0cf-afd144d3b79e
+o
+java:S1135÷"2Complete the task associated to this TODO comment.(«–œ±J$314f2cab-fa70-4c13-be1e-e188b74098bc
+d
+java:S1125ş"'Remove the unnecessary boolean literal.(£É×©J$334f31be-e849-4fbb-a755-606cd54b9e7b
+t
+java:S1135‹"2Complete the task associated to this TODO comment.(Î§Ï¹øÿÿÿÿJ$e5152921-566d-4cf6-a111-8570c87af603
+t
+java:S1135"2Complete the task associated to this TODO comment.(İÒË—ùÿÿÿÿJ$c6a2ec96-17e9-4a4a-ab87-2929e54feb3b
+n
+java:S1874¡"1Remove this use of "AsyncTask"; it is deprecated.(‡©Ó‚J$9c8e3aae-09c8-487d-a967-7baa4a66affd
+Œ
+java:S1874¥"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(’á›ûøÿÿÿÿJ$5e067f01-0e50-4b09-8827-922fe0faf729
+‚
+java:S2147Å"ECombine this catch with the one at line 323, which has the same body.(óûìœJ$0e9f6373-b0d5-43aa-b36e-1a18c8d933b5
+q
+java:S1874È"5Remove this use of "onPostExecute"; it is deprecated.(úñ†J$ba62d4eb-d9bc-43ab-bbad-c2c9d280a63f
+s
+java:S1068I"2Remove this unused "connectHandler" private field.(¹ÕàÙûÿÿÿÿJ$3df53416-5ee8-476b-b60c-68e517e64908
